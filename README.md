@@ -2,7 +2,7 @@
 
 ## Deskripsi Proyek
 
-Proyek ini merupakan bagian dari tugas akhir kelas Machine Learning Pemula di Dicoding. Proyek ini bertujuan untuk melakukan analisis dan pemodelan machine learning menggunakan dataset pesawat terbang dari [New and Used Aircraft Pricing Data oleh artemkorottchenko](https://www.kaggle.com/datasets/artemkorottchenko/used-aircraft-pricing/data) (terima kasih!). Proyek ini terdiri dari dua bagian utama: clustering dan klasifikasi.
+Proyek ini merupakan bagian dari tugas akhir kelas Machine Learning Pemula di Dicoding. Proyek ini bertujuan untuk melakukan analisis dan pemodelan machine learning menggunakan dataset pesawat terbang dari Kaggle: [New and Used Aircraft Pricing Data oleh artemkorottchenko](https://www.kaggle.com/datasets/artemkorottchenko/used-aircraft-pricing/data) yang telah dimodifikasi (terima kasih!). Proyek ini terdiri dari dua bagian utama: clustering dan klasifikasi.
 
 ## Struktur Proyek
 
@@ -35,6 +35,7 @@ Proyek ini merupakan bagian dari tugas akhir kelas Machine Learning Pemula di Di
 Memperoleh bintang 4, tanpa melakukan tahapan-tahapan opsional seperti:
 1. Feature Selection
 2. Search Algorithm
+
 *Guess that's in my to-do list now!*
 <p align="center">
   <img src="images/Review.jpg" alt="Hasil Review"/>
