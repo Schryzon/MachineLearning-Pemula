@@ -35,6 +35,7 @@ Proyek ini merupakan bagian dari tugas akhir kelas Machine Learning Pemula di Di
 Memperoleh bintang 4, tanpa melakukan tahapan-tahapan opsional seperti:
 1. Feature Selection
 2. Search Algorithm
+*Guess that's in my to-do list now!*
 <p align="center">
   <img src="images/Review.jpg" alt="Hasil Review"/>
 </p>
@@ -42,4 +43,5 @@ Memperoleh bintang 4, tanpa melakukan tahapan-tahapan opsional seperti:
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT). Anda diperkenankan untuk menggunakan, menyalin, mengubah, dan mendistribusikan proyek ini dengan syarat menyertakan pemberitahuan hak cipta asli dan pemberitahuan lisensi ini dalam semua salinan atau bagian substansial dari perangkat lunak.
+Proyek ini dilisensikan di bawah [Lisensi MIT](https://opensource.org/licenses/MIT).
+Anda diperkenankan untuk menggunakan, menyalin, mengubah, dan mendistribusikan proyek ini dengan syarat menyertakan pemberitahuan hak cipta asli dan pemberitahuan lisensi ini dalam semua salinan atau bagian substansial dari perangkat lunak.
